@@ -6,7 +6,7 @@
 - 📚 I'm currently learning how to be [a Senior Web Developer](https://zerotomastery.io/courses/junior-to-senior-web-developer-roadmap/) on Udemy
 - 📐 All my projects are at my [Github](https://github.com/sami-almaradni)
 - 📧 Email: almaradni.sami@gmail.com
-- 📄 Have a look on my simple portfolio: https://sami-almaradni.github.io/samialmaradni-folio/ (out of using, am working on the domain name)
+- 📄 Have a look on my simple portfolio: https://sami-almaradni.github.io/samialmaradni-folio/
 
 
  **Profiles:** 
